@@ -24,5 +24,20 @@ YouTube Audio and Video Downloader is a Python application that allows you to do
    git clone https://github.com/yourusername/your-repository-name.git
 
 2. Navigate to the project directory:
-```bash
-cd your-repository-name
+   ```bash
+   cd your-repository-name
+
+3. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+
+4. Install the required Python packages:
+   ```bash
+   python main.py
+
+   ## Usage
+   
+Enter the YouTube URL of the video you wish to download.
+Select a folder where you want to save the downloaded files.
+Click the "Download" button to start the download process.
+Once the download is complete, use the "Open Containing Folder" button to access the downloaded files.
