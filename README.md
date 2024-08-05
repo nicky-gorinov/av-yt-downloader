@@ -37,7 +37,16 @@ YouTube Audio and Video Downloader is a Python application that allows you to do
 
 ## Usage
    
-Enter the YouTube URL of the video you wish to download.
-Select a folder where you want to save the downloaded files.
-Click the "Download" button to start the download process.
-Once the download is complete, use the "Open Containing Folder" button to access the downloaded files.
+- Enter the YouTube URL of the video you wish to download.
+- Select a folder where you want to save the downloaded files.
+- Click the "Download" button to start the download process.
+- Once the download is complete, use the "Open Containing Folder" button to access the downloaded files.
+
+## Legal Disclaimer
+
+This application is intended for personal use only and is provided for educational and informational purposes. The YouTube platform has strict policies against downloading videos without explicit permission from the content owner or unless the video is provided under a license that explicitly permits downloading.
+
+Downloading videos or audio from YouTube without permission may violate YouTube's Terms of Service and could result in legal consequences. This application does not encourage, support, or condone unauthorized downloading or distribution of copyrighted material.
+
+By using this application, you agree to use it responsibly and in accordance with YouTube's policies and applicable copyright laws. The developers are not responsible for any misuse of this application. It is the user's responsibility to ensure that they have the legal right to download any content before doing so.
+
