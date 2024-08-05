@@ -31,18 +31,6 @@ When used under Fair Use principles, such as for commentary, criticism, research
    ```bash
    git clone https://github.com/yourusername/your-repository-name.git
 
-
-## Requirements
-
-- Python 3.10 or later
-- Required Python libraries: `ttkbootstrap`, `yt_dlp`, `Pillow`
-
-## Installation
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-
 2. Navigate to the project directory:
    ```bash
    cd your-repository-name
