@@ -45,10 +45,10 @@ When used under Fair Use principles, such as for commentary, criticism, research
 
 ## Usage
    
-- Enter the YouTube URL of the video you wish to download.
-- Select a folder where you want to save the downloaded files.
-- Click the "Download" button to start the download process.
-- Once the download is complete, use the "Open Containing Folder" button to access the downloaded files.
+1. Enter the YouTube URL of the video you wish to download.
+2. Select a folder where you want to save the downloaded files.
+3. Click the "Download" button to start the download process.
+4. Once the download is complete, use the "Open Containing Folder" button to access the downloaded files.
 
 ## Legal Disclaimer
 
@@ -58,3 +58,8 @@ Downloading videos or audio from YouTube without permission may violate YouTube'
 
 By using this application, you agree to use it responsibly and in accordance with YouTube's policies and applicable copyright laws. The developers are not responsible for any misuse of this application. It is the user's responsibility to ensure that they have the legal right to download any content before doing so.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
