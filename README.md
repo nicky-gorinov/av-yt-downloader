@@ -12,6 +12,26 @@ YouTube Audio and Video Downloader is a Python application that allows you to do
 - Open the containing folder directly from the application after the download is complete.
 - Information and guidance provided in the "About" and "How To" sections.
 
+## Why This App is Helpful
+
+This application is especially valuable for individuals interested in video editing or content creation. By providing separate audio and video files, it enables video editors and Canva artists to work more efficiently. Having separate files allows for easier manipulation and editing, which is crucial for those looking to create professional-quality content.
+
+For educational purposes, this app allows users to analyze and learn from YouTube videos by isolating audio or video components. This can be particularly useful for tutorials, interviews, and other content where the audio or visual elements need to be studied independently.
+
+When used under Fair Use principles, such as for commentary, criticism, research, or educational purposes, this tool provides a powerful way to access and utilize YouTube content in a responsible manner. Fair Use allows limited use of copyrighted material without requiring permission from the rights holders, provided that the use is transformative and non-commercial.
+
+## Requirements
+
+- Python 3.10 or later
+- Required Python libraries: `ttkbootstrap`, `yt_dlp`, `Pillow`
+
+## Installation
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/your-repository-name.git
+
+
 ## Requirements
 
 - Python 3.10 or later
