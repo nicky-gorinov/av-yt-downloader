@@ -35,7 +35,7 @@ YouTube Audio and Video Downloader is a Python application that allows you to do
    ```bash
    python main.py
 
-   ## Usage
+## Usage
    
 Enter the YouTube URL of the video you wish to download.
 Select a folder where you want to save the downloaded files.
