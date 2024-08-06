@@ -1,5 +1,7 @@
 # YouTube Audio and Video Downloader
 
+![YouTube Audio & Video Downloader](https://github.com/user-attachments/assets/53c28038-ba39-41db-807c-df83c3344fb7)
+
 ## Overview
 
 YouTube Audio and Video Downloader is a Python application that allows you to download video and audio files separately from YouTube. The downloaded files are saved as two distinct formats: `.mp4` for video and `.m4a` for audio. This tool is designed to help users easily download and manage YouTube content locally on their computers.
